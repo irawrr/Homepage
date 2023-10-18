@@ -21,15 +21,22 @@ section {
 }
 
 #hero h1 {
-    font-size: 3em;
+    font-size: 3.4em;
+    font-family: 'Nunito', sans-serif;
 }
 
 section h2 {
     font-size: 2.5em;
+    font-family: 'Nunito', sans-serif;
 }
 
 section h3 {
     font-size: 1.5em;
+    font-family: 'Nunito', sans-serif;
+}
+section h4 {
+    font-size: 1.1em;
+    font-family: 'Nunito', sans-serif;
 }
 .icon {
     width: 100px;
